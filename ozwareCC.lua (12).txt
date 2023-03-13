@@ -1,15 +1,6 @@
 --[[Hi nigga I see You deobfuscate our shit Well You can leak it Idgaf Yes its skidded This is a Side project so i dont care if the source gets leak Kid XDDD Go get a life and stop deobfuscating shit But here you are reading it, before you Go hete and SAY YUNV2 SKIDDDDDDDD Just remember we Dont give flying fucks Nigga.]]
 --Wroted By Paws.
---Imrpoved Silent aim, Improved Camlock, Renamed some shit, Added better hitbox.
---I AM THE MODIFY SKID GOD PAWS.
---PAWS RUNS YOU.
---No mouse assist cuz its shitty af
---Ozware.cc Here you go
-
-
-
---Main Webhook--
-_77Watermark("Paws#2140")
+--Imrpoved Silent aim, Improved Camlock, Renamed some shit,
 
 
 repeat
